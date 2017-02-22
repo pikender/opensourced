@@ -92,7 +92,7 @@
 
 **Issues**
 
-- [ ] [No Back Button for Order or Return History on View Return Details Page](https://github.com/vinsol-spree-contrib/spree_item_returns/issues/28)
+- [No Back Button for Order or Return History on View Return Details Page](https://github.com/vinsol-spree-contrib/spree_item_returns/issues/28)
 
 **PR**
 
