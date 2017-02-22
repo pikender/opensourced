@@ -155,13 +155,13 @@
 
 **Issues**
 
-- [ ] [[Frontend] Closing Ticket fails if Backend closes ticket](https://github.com/vinsol-spree-contrib/spree-video-support/issues/10)
-- [ ] [[Backend - Support Agent] Closing Ticket loads forever](https://github.com/vinsol-spree-contrib/spree-video-support/issues/9)
-- [ ] [[Frontend] Create Support Ticket not showing any error message when no purpose given](https://github.com/vinsol-spree-contrib/spree-video-support/issues/11)
+- [[Frontend] Closing Ticket fails if Backend closes ticket](https://github.com/vinsol-spree-contrib/spree-video-support/issues/10)
+- [[Backend - Support Agent] Closing Ticket loads forever](https://github.com/vinsol-spree-contrib/spree-video-support/issues/9)
+- [[Frontend] Create Support Ticket not showing any error message when no purpose given](https://github.com/vinsol-spree-contrib/spree-video-support/issues/11)
 
 **PR**
 
-- [ ] [Fixes](https://github.com/vinsol-spree-contrib/spree-video-support/pull/12)
+- [Fixes](https://github.com/vinsol-spree-contrib/spree-video-support/pull/12)
 
 ### [Spree Yoda Theme](https://github.com/vinsol-spree-contrib/spree_yoda_theme)
 
