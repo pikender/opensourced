@@ -102,7 +102,7 @@
 
 **PR**
 
-- [ ] [[WIP] Updated for Spree 3.2.0.rc2 and Rails 5](https://github.com/vinsol-spree-contrib/spree_marketing/pull/14)
+- [ ] [[WIP] Updated for Spree 3.2.0.rc2 and Rails 5](https://github.com/vinsol-spree-contrib/spree_marketing/pull/82)
 
 ### [Spree Loyalty Points](https://github.com/vinsol-spree-contrib/spree-loyalty-points)
 
